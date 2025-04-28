@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewiztanvir" alt="thewiztanvir" /></a> </p>
 
-- 💬 Ask me about **frontend, react.js, frameworks,Ai automation, Ai Voice Agent, no-code, low-code tools like make.com**
+- 💬 Ask me about **frontend, Ai automation, Ai Voice Agent, no-code, low-code tools like make.com**
 
 - 📫 How to reach me **mitabsany@gmail.com**
 
